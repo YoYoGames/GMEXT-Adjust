@@ -8,6 +8,8 @@ This extension will work on iOS and Android.
 * Android: `source/Adjust_gml/extensions/Adjust/AndroidSource/Java/`
 * iOS: `source/Adjust_gml/extensions/Adjust/iOSSource/`
 
+<br>
+
 ## Documentation
 
 * Check [the documentation](../../wiki)
