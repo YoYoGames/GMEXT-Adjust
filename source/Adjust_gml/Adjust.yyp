@@ -1,0 +1,52 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Adjust",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Adjust","folderPath":"folders/Adjust.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Adjust/Extensions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Adjust Demo","folderPath":"folders/Adjust Demo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GM Extensions Asset","folderPath":"folders/GM Extensions Asset.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Font","folderPath":"folders/GM Extensions Asset/Font.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/GM Extensions Asset/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/GM Extensions Asset/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/GM Extensions Asset/Rooms.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.1100.0.444",
+  },
+  "resources": [
+    {"id":{"name":"obj_adjust_track_event","path":"objects/obj_adjust_track_event/obj_adjust_track_event.yy",},},
+    {"id":{"name":"Adjust","path":"extensions/Adjust/Adjust.yy",},},
+    {"id":{"name":"obj_gm_textbox","path":"objects/obj_gm_textbox/obj_gm_textbox.yy",},},
+    {"id":{"name":"obj_gm_text","path":"objects/obj_gm_text/obj_gm_text.yy",},},
+    {"id":{"name":"rm_gm_base","path":"rooms/rm_gm_base/rm_gm_base.yy",},},
+    {"id":{"name":"fnt_gm_20","path":"fonts/fnt_gm_20/fnt_gm_20.yy",},},
+    {"id":{"name":"spr_gm_textbox","path":"sprites/spr_gm_textbox/spr_gm_textbox.yy",},},
+    {"id":{"name":"fnt_gm_30","path":"fonts/fnt_gm_30/fnt_gm_30.yy",},},
+    {"id":{"name":"spr_gm_background","path":"sprites/spr_gm_background/spr_gm_background.yy",},},
+    {"id":{"name":"obj_gm_button","path":"objects/obj_gm_button/obj_gm_button.yy",},},
+    {"id":{"name":"spr_gm_button","path":"sprites/spr_gm_button/spr_gm_button.yy",},},
+    {"id":{"name":"fnt_gm_15","path":"fonts/fnt_gm_15/fnt_gm_15.yy",},},
+    {"id":{"name":"rm_adjust","path":"rooms/rm_adjust/rm_adjust.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_adjust","path":"rooms/rm_adjust/rm_adjust.yy",},},
+    {"roomId":{"name":"rm_gm_base","path":"rooms/rm_gm_base/rm_gm_base.yy",},},
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
