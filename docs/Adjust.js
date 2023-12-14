@@ -2,14 +2,14 @@
 
 /**
  * @func adjust_init
- * @desc Initializates Adjust SDK
+ * @desc Initializes Adjust SDK
  * @func_end
 */
 function adjust_init()
 
 /**
  * @func adjust_track_event
- * @desc TODO
+ * @desc You can use the Adjust SDK to track event information by associating an event with an event token.
  * @param {string} event 
  * @param {string} json 
  * @func_end
